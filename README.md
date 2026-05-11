@@ -13,11 +13,11 @@ Este es mi repositorio integrador donde aplico los conocimientos de Git, GitHub 
 1. Clonar el repositorio.
 2. Ejecutar `node index.js` para ver los ejercicios de lógica.
 
-## Secciones del Proyecto (estructura, explicación de las carpetas principales)
+## Secciones del Proyecto (Estructura, explicación de las carpetas principales)
 - **Frontend**: Interfaz de usuario.
 - **Backend**: Lógica del servidor y base de datos.
 - **Docs**: Documentación técnica.
 
-## Uso Cómo correr frontend y backend
+## Uso (Cómo correr frontend y backend)
 
-## Equipo Nombres y roles del equipo
+## Equipo (Nombres y roles del equipo)
